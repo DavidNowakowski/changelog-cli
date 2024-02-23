@@ -2,3 +2,5 @@
 
 Changelog of changelog-cli.
 
+- New line
+
